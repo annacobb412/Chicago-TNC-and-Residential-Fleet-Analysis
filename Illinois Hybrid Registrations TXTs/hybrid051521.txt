@@ -1,0 +1,1690 @@
+                HYBRID VEHICLES IN ILLINOIS
+ COUNTY TOTALS AS OF 05/15/2021
+  ADAMS                 ......................        729
+  ALEXANDER             ......................         32
+  BOND                  ......................        171
+  BOONE                 ......................        773
+  BROWN                 ......................         32
+  BUREAU                ......................        359
+  CALHOUN               ......................         45
+  CARROLL               ......................        187
+  CASS                  ......................         92
+  CHAMPAIGN             ......................       4693
+  CHRISTIAN             ......................        270
+  CLARK                 ......................        199
+  CLAY                  ......................         87
+  CLINTON               ......................        344
+  COLES                 ......................        826
+  COOK                  ......................      52159
+  CRAWFORD              ......................        253
+  CUMBERLAND            ......................        133
+  DEKALB                ......................       1726
+  DEWITT                ......................        176
+  DOUGLAS               ......................        262
+  DUPAGE                ......................      25649
+  EDGAR                 ......................        177
+  EDWARDS               ......................         45
+  EFFINGHAM             ......................        561
+  FAYETTE               ......................        129
+  FORD                  ......................        137
+  FRANKLIN              ......................        387
+  FULTON                ......................        305
+  GALLATIN              ......................         30
+  GREENE                ......................         96
+  GRUNDY                ......................        642
+  HAMILTON              ......................         89
+  HANCOCK               ......................        209
+  HARDIN                ......................         23
+  HENDERSON             ......................         75
+  HENRY                 ......................        582
+  IROQUOIS              ......................        272
+  JACKSON               ......................        961
+  JASPER                ......................         86
+  JEFFERSON             ......................        372
+  JERSEY                ......................        317
+  JO DAVIESS            ......................        392
+  JOHNSON               ......................        145
+  KANE                  ......................       9577
+  KANKAKEE              ......................       1149
+  KENDALL               ......................       2076
+  KNOX                  ......................        678
+  LAKE                  ......................      18496
+  LASALLE               ......................       1109
+  LAWRENCE              ......................        120
+  LEE                   ......................        462
+  LIVINGSTON            ......................        268
+  LOGAN                 ......................        331
+  MCDONOUGH             ......................        513
+  MCHENRY               ......................       6332
+  MCLEAN                ......................       3389
+  MACON                 ......................       1331
+  MACOUPIN              ......................        479
+  MADISON               ......................       4527
+  MARION                ......................        361
+  MARSHALL              ......................        111
+  MASON                 ......................        118
+  MASSAC                ......................        146
+  MENARD                ......................        150
+  MERCER                ......................        190
+  MONROE                ......................        527
+  MONTGOMERY            ......................        270
+  MORGAN                ......................        377
+  MOULTRIE              ......................        177
+  OGLE                  ......................        692
+  PEORIA                ......................       2988
+  PERRY                 ......................        161
+  PIATT                 ......................        348
+  PIKE                  ......................        106
+  POPE                  ......................         32
+  PULASKI               ......................         49
+  PUTNAM                ......................         50
+  RANDOLPH              ......................        222
+  RICHLAND              ......................         97
+  ROCK ISLAND           ......................       2285
+  ST.CLAIR              ......................       3881
+  SALINE                ......................        218
+  SANGAMON              ......................       3375
+  SCHUYLER              ......................         75
+  SCOTT                 ......................         52  SHELBY                ......................        206
+  STARK                 ......................         45
+  STEPHENSON            ......................        628
+  TAZEWELL              ......................       2145
+  UNION                 ......................        222
+  VERMILION             ......................        828
+  WABASH                ......................        103
+  WARREN                ......................        176
+  WASHINGTON            ......................        134
+  WAYNE                 ......................        112
+  WHITE                 ......................        120
+  WHITESIDE             ......................        690
+  WILL                  ......................      11105
+  WILLIAMSON            ......................        903
+  WINNEBAGO             ......................       4307
+  WOODFORD              ......................        540
+  CHICAGO               ......................      46679
+  UNKNOWN COUNTY        ......................        839
+                HYBRID VEHICLES IN ILLINOIS
+ ZIPCODE TOTALS AS OF05/15/2021
+  ALDEN                 60001                           1
+  ANTIOCH               60002                         472
+  ARLINGTON HEIGHTS     60004                        1393
+  ARLINGTON HEIGHTS     60005                         781
+  ARLINGTON HEIGHTS     60006                           0
+  ELK GROVE VILLAGE     60007                         831
+  ROLLING MEADOWS       60008                         495
+  ELK GROVE VILLAGE     60009                           1
+  BARRINGTON            60010                        1415
+  BARRINGTON            60011                           3
+  CRYSTAL LAKE          60012                         296
+  CARY                  60013                         638
+  CRYSTAL LAKE          60014                        1114
+  DEERFIELD             60015                        1190
+  DES PLAINES           60016                        1573
+  DES PLAINES           60017                           2
+  DES PLAINES           60018                         842
+  DES PLAINES           60019                           1
+  FOX LAKE              60020                         203
+  FOX RIVER GROVE       60021                         119
+  GLENCOE               60022                         384
+  GLENVIEW              60025                        1389
+  GLENVIEW              60026                         438
+  GOLF                  60029                          15
+  GRAYSLAKE             60030                         981
+  GURNEE                60031                        1832
+  HARVARD               60033                         162
+  HEBRON                60034                          19
+  HIGHLAND PARK         60035                        1714
+  FORT SHERIDAN         60037                           1
+  PALATINE              60038                           0
+  CRYSTAL LAKE          60039                           2
+  HIGHWOOD              60040                         109
+  INGLESIDE             60041                         145
+  ISLAND LAKE           60042                         145
+  KENILWORTH            60043                          75
+  LAKE BLUFF            60044                         349
+  LAKE FOREST           60045                         618
+  LAKE VILLA            60046                         820
+  LAKE ZURICH           60047                        1193
+  LIBERTYVILLE          60048                         956
+  LONG GROVE            60049                           0
+  MCHENRY               60050                         517
+  MCHENRY               60051                         414
+  METTAWA               60052                           1
+  MORTON GROVE          60053                         728
+  PALATINE              60055                           0
+  MOUNT PROSPECT        60056                        1227
+  MOUNT PROSPECT        60057                           1
+  MOUNT PROSPECT        60058                           3
+  MUNDELEIN             60060                         947
+  VERNON HILLS          60061                         801
+  NORTHBROOK            60062                        1693
+  NORTH CHICAGO         60064                         148
+  NORTHBROOK            60065                           0
+  PALATINE              60067                        1139
+  PARK RIDGE            60068                        1066
+  LINCOLNSHIRE          60069                         293
+  PROSPECT HEIGHTS      60070                         305
+  RICHMOND              60071                          99
+  RINGWOOD              60072                          19
+  ROUND LAKE            60073                        1020
+  PALATINE              60074                         808
+  RUSSELL               60075                           2
+  SKOKIE                60076                        1402
+  SKOKIE                60077                         871
+  PALATINE              60078                           1
+  WAUKEGAN              60079                           3  SPRING GROVE          60081                         177
+  TECHNY                60082                           1
+  WADSWORTH             60083                         267
+  WAUCONDA              60084                         326
+  WAUKEGAN              60085                         828
+  NORTH CHICAGO         60086                           1
+  WAUKEGAN              60087                         336
+  GREAT LAKES           60088                          73
+  BUFFALO GROVE         60089                        1404
+  WHEELING              60090                         827
+  WILMETTE              60091                        1247
+  LIBERTYVILLE          60092                           1
+  WINNETKA              60093                         736
+  PALATINE              60094                           1
+  PALATINE              60095                           0
+  WINTHROP HARBOR       60096                          96
+  WONDER LAKE           60097                         149
+  WOODSTOCK             60098                         656
+  ZION                  60099                         500
+  ADDISON               60101                         594
+  ALGONQUIN             60102                         779
+  BARTLETT              60103                         945
+  BELLWOOD              60104                         149
+  BENSENVILLE           60105                           0
+  BENSENVILLE           60106                         336
+  STREAMWOOD            60107                         756
+  BLOOMINGDALE          60108                         504
+  BURLINGTON            60109                          15
+  CARPENTERSVILLE       60110                         467
+  CLARE                 60111                           7
+  CORTLAND              60112                          82
+  CRESTON               60113                           6
+  DEKALB                60115                         744
+  CAROL STREAM          60116                           1
+  BLOOMINGDALE          60117                           1
+  DUNDEE                60118                         441
+  ELBURN                60119                         231
+  ELGIN                 60120                         768
+  ELGIN                 60121                           5
+  CAROL STREAM          60122                           0
+  ELGIN                 60123                         726
+  ELGIN                 60124                         534
+  CAROL STREAM          60125                           1
+  ELMHURST              60126                        1448
+  CAROL STREAM          60128                           0
+  ESMOND                60129                           8
+  FOREST PARK           60130                         356
+  FRANKLIN PARK         60131                         287
+  CAROL STREAM          60132                           1
+  HANOVER PARK          60133                         578
+  GENEVA                60134                         789
+  GENOA                 60135                         111
+  GILBERTS              60136                         166
+  GLEN ELLYN            60137                        1222
+  GLEN ELLYN            60138                           1
+  GLENDALE HEIGHTS      60139                         611
+  HAMPSHIRE             60140                         463
+  HINES                 60141                           1
+  HUNTLEY               60142                         684
+  ITASCA                60143                         291
+  KANEVILLE             60144                           2
+  KINGSTON              60145                          24
+  KIRKLAND              60146                          28
+  LAFOX                 60147                          12
+  LOMBARD               60148                        2096
+  MALTA                 60150                          27
+  MAPLE PARK            60151                          69
+  MARENGO               60152                         186
+  MAYWOOD               60153                         180
+  WESTCHESTER           60154                         331
+  BROADVIEW             60155                          80
+  LAKE IN THE HILLS     60156                         568
+  MEDINAH               60157                          47
+  SCHAUMBURG            60159                           1
+  MELROSE PARK          60160                         158
+  MELROSE PARK          60161                           0
+  HILLSIDE              60162                         114
+  BERKELEY              60163                          66
+  MELROSE PARK          60164                         192
+  STONE PARK            60165                          27
+  SCHAUMBURG            60168                           2
+  HOFFMAN ESTATES       60169                         771
+  PLATO CENTER          60170                           0
+  RIVER GROVE           60171                         181
+  ROSELLE               60172                         533
+  SCHAUMBURG            60173                         513
+  SAINT CHARLES         60174                         770
+  SAINT CHARLES         60175                         674
+  SCHILLER PARK         60176                         206
+  SOUTH ELGIN           60177                         498  SYCAMORE              60178                         468
+  HOFFMAN ESTATES       60179                           0
+  UNION                 60180                          30
+  VILLA PARK            60181                         722
+  WASCO                 60183                           2
+  WAYNE                 60184                          87
+  WEST CHICAGO          60185                         619
+  WEST CHICAGO          60186                           0
+  WHEATON               60187                         987
+  CAROL STREAM          60188                         930
+  WHEATON               60189                         808
+  WINFIELD              60190                         299
+  WOOD DALE             60191                         303
+  HOFFMAN ESTATES       60192                         490
+  SCHAUMBURG            60193                         889
+  SCHAUMBURG            60194                         520
+  SCHAUMBURG            60195                         167
+  SCHAUMBURG            60196                          33
+  CAROL STREAM          60197                           4
+  CAROL STREAM          60199                           0
+  EVANSTON              60201                        1599
+  EVANSTON              60202                        1269
+  EVANSTON              60203                         228
+  EVANSTON              60204                           0
+  EVANSTON              60208                          17
+  EVANSTON              60209                           0
+  MCHENRY               60296                           0
+  MCHENRY               60297                           0
+  OAK PARK              60301                         108
+  OAK PARK              60302                        1472
+  OAK PARK              60303                           2
+  OAK PARK              60304                         742
+  RIVER FOREST          60305                         417
+  FRANKLIN PARK         60398                           0
+  WOOD DALE             60399                           0
+  BEECHER               60401                          84
+  BERWYN                60402                         697
+  CREST HILL            60403                         216
+  SHOREWOOD             60404                         332
+  BLUE ISLAND           60406                         192
+  BRACEVILLE            60407                          14
+  BRAIDWOOD             60408                          45
+  CALUMET CITY          60409                         284
+  CHANNAHON             60410                         171
+  CHICAGO HEIGHTS       60411                         446
+  CHICAGO HEIGHTS       60412                           0
+  CHICAGO RIDGE         60415                         252
+  COAL CITY             60416                          84
+  CRETE                 60417                         253
+  CRESTWOOD             60418                          54
+  DOLTON                60419                         176
+  DWIGHT                60420                          51
+  ELWOOD                60421                          51
+  FLOSSMOOR             60422                         280
+  FRANKFORT             60423                         633
+  GARDNER               60424                          19
+  GLENWOOD              60425                         102
+  HARVEY                60426                         168
+  MARKHAM               60428                          83
+  HAZEL CREST           60429                         122
+  HOMEWOOD              60430                         431
+  JOLIET                60431                         312
+  JOLIET                60432                         158
+  JOLIET                60433                         123
+  JOLIET                60434                           3
+  JOLIET                60435                         550
+  JOLIET                60436                         117
+  KINSMAN               60437                           2
+  LANSING               60438                         279
+  LEMONT                60439                         522
+  BOLINGBROOK           60440                         940
+  LOCKPORT              60441                         504
+  MANHATTAN             60442                         149
+  MATTESON              60443                         380
+  MAZON                 60444                          16
+  MIDLOTHIAN            60445                         225
+  ROMEOVILLE            60446                         617
+  MINOOKA               60447                         219
+  MOKENA                60448                         449
+  MONEE                 60449                         128
+  MORRIS                60450                         281
+  NEW LENOX             60451                         540
+  OAK FOREST            60452                         340
+  OAK LAWN              60453                         878
+  OAK LAWN              60454                           2
+  BRIDGEVIEW            60455                         316
+  HOMETOWN              60456                          40
+  HICKORY HILLS         60457                         323
+  JUSTICE               60458                         195
+  BURBANK               60459                         353  ODELL                 60460                          11
+  OLYMPIA FIELDS        60461                         117
+  ORLAND PARK           60462                         790
+  PALOS HEIGHTS         60463                         319
+  PALOS PARK            60464                         247
+  PALOS HILLS           60465                         344
+  PARK FOREST           60466                         250
+  ORLAND PARK           60467                         523
+  PEOTONE               60468                          92
+  POSEN                 60469                          39
+  RANSOM                60470                           6
+  RICHTON PARK          60471                         135
+  ROBBINS               60472                          24
+  SOUTH HOLLAND         60473                         266
+  SOUTH WILMINGTON      60474                           7
+  STEGER                60475                          65
+  THORNTON              60476                          20
+  TINLEY PARK           60477                         632
+  COUNTRY CLUB HILLS    60478                         154
+  VERONA                60479                           8
+  WILLOW SPRINGS        60480                         148
+  WILMINGTON            60481                         119
+  WORTH                 60482                         146
+  TINLEY PARK           60483                           0
+  UNIVERSITY PARK       60484                          53
+  TINLEY PARK           60487                         416
+  BOLINGBROOK           60490                         566
+  HOMER GLEN            60491                         441
+  BEDFORD PARK          60499                           0
+  SUMMIT ARGO           60501                         103
+  AURORA                60502                         601
+  AURORA                60503                         359
+  AURORA                60504                         857
+  AURORA                60505                         459
+  AURORA                60506                         793
+  AURORA                60507                          17
+  BATAVIA               60510                         752
+  BIG ROCK              60511                          29
+  BRISTOL               60512                          13
+  BROOKFIELD            60513                         379
+  CLARENDON HILLS       60514                         281
+  DOWNERS GROVE         60515                         916
+  DOWNERS GROVE         60516                         725
+  WOODRIDGE             60517                         750
+  EARLVILLE             60518                          46
+  EOLA                  60519                           1
+  HINCKLEY              60520                          28
+  HINSDALE              60521                         609
+  HINSDALE              60522                           6
+  OAK BROOK             60523                         431
+  LA GRANGE             60525                         806
+  LA GRANGE PARK        60526                         343
+  WILLOWBROOK           60527                         941
+  LEE                   60530                           8
+  LELAND                60531                          36
+  LISLE                 60532                         848
+  LYONS                 60534                         137
+  MILLBROOK             60536                           6
+  MILLINGTON            60537                          12
+  MONTGOMERY            60538                         382
+  MOOSEHEART            60539                           2
+  NAPERVILLE            60540                        1645
+  NEWARK                60541                          52
+  NORTH AURORA          60542                         402
+  OSWEGO                60543                         777
+  PLAINFIELD            60544                         537
+  PLANO                 60545                         202
+  RIVERSIDE             60546                         417
+  SANDWICH              60548                         152
+  SERENA                60549                          13
+  SHABBONA              60550                           9
+  SHERIDAN              60551                          34
+  SOMONAUK              60552                          53
+  STEWARD               60553                           9
+  SUGAR GROVE           60554                         295
+  WARRENVILLE           60555                         410
+  WATERMAN              60556                          30
+  WEDRON                60557                           3
+  WESTERN SPRINGS       60558                         368
+  WESTMONT              60559                         714
+  YORKVILLE             60560                         449
+  DARIEN                60561                         626
+  NAPERVILLE            60563                        1214
+  NAPERVILLE            60564                        1363
+  NAPERVILLE            60565                        1325
+  NAPERVILLE            60566                           4
+  NAPERVILLE            60567                           1
+  AURORA                60568                           0
+  HINSDALE              60570                           0
+  AURORA                60572                           0  PLAINFIELD            60585                         512
+  PLAINFIELD            60586                         755
+  FOX VALLEY            60597                           0
+  AURORA                60598                           0
+  FOX VALLEY            60599                           0
+  CHICAGO               60601                         310
+  CHICAGO               60602                         319
+  CHICAGO               60603                          53
+  CHICAGO               60604                          37
+  CHICAGO               60605                         670
+  CHICAGO               60606                         162
+  CHICAGO               60607                         556
+  CHICAGO               60608                         987
+  CHICAGO               60609                         589
+  CHICAGO               60610                         764
+  CHICAGO               60611                         580
+  CHICAGO               60612                        1021
+  CHICAGO               60613                        1253
+  CHICAGO               60614                        1670
+  CHICAGO               60615                         850
+  CHICAGO               60616                        1613
+  CHICAGO               60617                         566
+  CHICAGO               60618                        2573
+  CHICAGO               60619                         411
+  CHICAGO               60620                         321
+  CHICAGO               60621                         538
+  CHICAGO               60622                        1541
+  CHICAGO               60623                         370
+  CHICAGO               60624                         165
+  CHICAGO               60625                        2053
+  CHICAGO               60626                        1386
+  CHICAGO               60628                         389
+  CHICAGO               60629                         667
+  CHICAGO               60630                        1622
+  CHICAGO               60631                         488
+  CHICAGO               60632                         688
+  CHICAGO               60633                         100
+  CHICAGO               60634                        1003
+  CHICAGO               60636                         172
+  CHICAGO               60637                         542
+  CHICAGO               60638                         609
+  CHICAGO               60639                         626
+  CHICAGO               60640                        1999
+  CHICAGO               60641                        1457
+  CHICAGO               60643                         687
+  CHICAGO               60644                         203
+  CHICAGO               60645                        1853
+  CHICAGO               60646                         821
+  CHICAGO               60647                        1912
+  CHICAGO               60649                         363
+  CHICAGO               60651                         391
+  CHICAGO               60652                         307
+  CHICAGO               60653                         331
+  CHICAGO               60654                         288
+  CHICAGO               60655                         325
+  CHICAGO               60656                         892
+  CHICAGO               60657                        1603
+  CHICAGO               60659                        1838
+  CHICAGO               60660                        1413
+  CHICAGO               60661                         331
+  CHICAGO               60663                           1
+  CHICAGO               60664                           1
+  CHICAGO               60666                         885
+  CHICAGO               60668                           1
+  CHICAGO               60669                           5
+  CHICAGO               60670                           0
+  CHICAGO               60673                           0
+  CHICAGO               60674                           0
+  CHICAGO               60675                           1
+  CHICAGO               60677                           1
+  CHICAGO               60678                           1
+  CHICAGO               60679                           0
+  CHICAGO               60680                         272
+  CHICAGO               60681                           2
+  CHICAGO               60682                           0
+  CHICAGO               60684                           0
+  CHICAGO               60685                           0
+  CHICAGO               60686                           1
+  CHICAGO               60687                           2
+  CHICAGO               60688                           0
+  CHICAGO               60689                           0
+  CHICAGO               60690                           2
+  CHICAGO               60691                           1
+  CHICAGO               60693                           0
+  CHICAGO               60694                           1
+  CHICAGO               60695                           1
+  CHICAGO               60696                           0
+  CHICAGO               60697                           0
+  CHICAGO               60699                           0
+  CHICAGO               60701                           2  HARWOOD HEIGHTS       60706                         409
+  ELMWOOD PARK          60707                         639
+  LINCOLNWOOD           60712                         641
+  NILES                 60714                         677
+  ALSIP                 60803                         281
+  CICERO                60804                         539
+  EVERGREEN PARK        60805                         271
+  RIVERDALE             60827                         121
+  KANKAKEE              60901                         293
+  AROMA PARK            60910                           4
+  ASHKUM                60911                          17
+  BEAVERVILLE           60912                           5
+  BONFIELD              60913                          18
+  BOURBONNAIS           60914                         380
+  BRADLEY               60915                          97
+  BUCKINGHAM            60917                           7
+  BUCKLEY               60918                           4
+  CABERY                60919                          11
+  CAMPUS                60920                           0
+  CHATSWORTH            60921                          12
+  CHEBANSE              60922                          19
+  CISSNA PARK           60924                          13
+  CLAYTONVILLE          60926                           0
+  CLIFTON               60927                          15
+  CRESCENT CITY         60928                           6
+  CULLOM                60929                           5
+  DANFORTH              60930                           7
+  DONOVAN               60931                           3
+  EAST LYNN             60932                           1
+  ELLIOTT               60933                           2
+  EMINGTON              60934                           2
+  ESSEX                 60935                           9
+  GIBSON CITY           60936                          53
+  GILMAN                60938                          26
+  GOODWINE              60939                           1
+  GRANT PARK            60940                          31
+  HERSCHER              60941                          19
+  HOOPESTON             60942                          51
+  HOPKINS PARK          60944                           1
+  IROQUOIS              60945                           1
+  KEMPTON               60946                           4
+  LODA                  60948                          26
+  LUDLOW                60949                           8
+  MANTENO               60950                         158
+  MARTINTON             60951                           8
+  MELVIN                60952                           3
+  MILFORD               60953                          24
+  MOMENCE               60954                          44
+  ONARGA                60955                          18
+  PAPINEAU              60956                           1
+  PAXTON                60957                          71
+  PEMBROKE TOWNSHIP     60958                          16
+  PIPER CITY            60959                          11
+  RANKIN                60960                           6
+  REDDICK               60961                          13
+  ROBERTS               60962                           4
+  ROSSVILLE             60963                          26
+  SAINT ANNE            60964                          59
+  SHELDON               60966                          13
+  STOCKLAND             60967                           0
+  THAWVILLE             60968                           4
+  UNION HILL            60969                           0
+  WATSEKA               60970                          68
+  WELLINGTON            60973                           3
+  WOODLAND              60974                           0
+  APPLE RIVER           61001                          26
+  ASHTON                61006                          12
+  BAILEYVILLE           61007                          12
+  BELVIDERE             61008                         436
+  BYRON                 61010                         106
+  CALEDONIA             61011                          78
+  CAPRON                61012                          35
+  CEDARVILLE            61013                          13
+  CHADWICK              61014                          10
+  CHANA                 61015                          11
+  CHERRY VALLEY         61016                         120
+  DAKOTA                61018                          17
+  DAVIS                 61019                          67
+  DAVIS JUNCTION        61020                          54
+  DIXON                 61021                         357
+  DURAND                61024                          41
+  EAST DUBUQUE          61025                          58
+  ELEROY                61027                           0
+  ELIZABETH             61028                          25
+  FORRESTON             61030                          17
+  FRANKLIN GROVE        61031                          20
+  FREEPORT              61032                         368
+  GALENA                61036                         191
+  GALT                  61037                           0
+  GARDEN PRAIRIE        61038                          17  GERMAN VALLEY         61039                          10
+  HANOVER               61041                           9
+  HARMON                61042                           7
+  HOLCOMB               61043                           0
+  KENT                  61044                           0
+  LANARK                61046                          50
+  LEAF RIVER            61047                          24
+  LENA                  61048                          76
+  LINDENWOOD            61049                           4
+  MC CONNELL            61050                           5
+  MILLEDGEVILLE         61051                          14
+  MONROE CENTER         61052                          16
+  MOUNT CARROLL         61053                          48
+  MOUNT MORRIS          61054                          58
+  NACHUSA               61057                           1
+  NELSON                61058                           0
+  NORA                  61059                           0
+  ORANGEVILLE           61060                          23
+  OREGON                61061                         111
+  PEARL CITY            61062                          21
+  PECATONICA            61063                          54
+  POLO                  61064                          41
+  POPLAR GROVE          61065                         178
+  RIDOTT                61067                           9
+  ROCHELLE              61068                         165
+  ROCK CITY             61070                          17
+  ROCK FALLS            61071                         122
+  ROCKTON               61072                         221
+  ROSCOE                61073                         426
+  SAVANNA               61074                          40
+  SCALES MOUND          61075                          12
+  SEWARD                61077                           2
+  SHANNON               61078                          16
+  SHIRLAND              61079                           0
+  SOUTH BELOIT          61080                         148
+  STERLING              61081                         268
+  STILLMAN VALLEY       61084                          45
+  STOCKTON              61085                          41
+  WARREN                61087                          24
+  WINNEBAGO             61088                          86
+  WINSLOW               61089                          10
+  WOOSUNG               61091                           1
+  ROCKFORD              61101                         185
+  ROCKFORD              61102                         179
+  ROCKFORD              61103                         266
+  ROCKFORD              61104                         139
+  ROCKFORD              61105                           2
+  ROCKFORD              61106                           2
+  ROCKFORD              61107                         658
+  ROCKFORD              61108                         412
+  ROCKFORD              61109                         338
+  ROCKFORD              61110                           3
+  LOVES PARK            61111                         369
+  ROCKFORD              61112                           3
+  ROCKFORD              61114                         399
+  MACHESNEY PARK        61115                         276
+  ROCKFORD              61125                           4
+  ROCKFORD              61126                           0
+  LOVES PARK            61130                           0
+  LOVES PARK            61131                           0
+  LOVES PARK            61132                           1
+  ROCK ISLAND           61201                         568
+  ROCK ISLAND           61204                           4
+  ALBANY                61230                          18
+  ALEDO                 61231                          65
+  ANDALUSIA             61232                          24
+  ANDOVER               61233                           5
+  ANNAWAN               61234                           9
+  ATKINSON              61235                          12
+  BARSTOW               61236                           1
+  BUFFALO PRAIRIE       61237                           0
+  CAMBRIDGE             61238                          35
+  CARBON CLIFF          61239                          11
+  COAL VALLEY           61240                         109
+  COLONA                61241                         103
+  CORDOVA               61242                          17
+  DEER GROVE            61243                           3
+  EAST MOLINE           61244                         306
+  ERIE                  61250                          31
+  FENTON                61251                           2
+  FULTON                61252                          91
+  GENESEO               61254                         177
+  HAMPTON               61256                          37
+  HILLSDALE             61257                          12
+  HOOPPOLE              61258                           0
+  ILLINOIS CITY         61259                          21
+  JOY                   61260                           6
+  LYNDON                61261                           5
+  LYNN CENTER           61262                           7
+  MATHERVILLE           61263                           4  MILAN                 61264                         140
+  MOLINE                61265                         780
+  MOLINE                61266                           0
+  MORRISON              61270                         108
+  NEW BOSTON            61272                          12
+  ORION                 61273                          34
+  OSCO                  61274                           6
+  PORT BYRON            61275                          96
+  PREEMPTION            61276                           0
+  PROPHETSTOWN          61277                          41
+  RAPIDS CITY           61278                           9
+  REYNOLDS              61279                           8
+  SHERRARD              61281                          39
+  SILVIS                61282                         109
+  TAMPICO               61283                          10
+  TAYLOR RIDGE          61284                          43
+  THOMSON               61285                          15
+  ROCK ISLAND           61299                           0
+  LA SALLE              61301                          98
+  AMBOY                 61310                          29
+  ANCONA                61311                           1
+  ARLINGTON             61312                           4
+  BLACKSTONE            61313                           1
+  BUDA                  61314                          10
+  BUREAU                61315                           0
+  CEDAR POINT           61316                           5
+  CHERRY                61317                           2
+  COMPTON               61318                           8
+  CORNELL               61319                           9
+  DALZELL               61320                           3
+  DANA                  61321                           2
+  DEPUE                 61322                           5
+  DOVER                 61323                           1
+  ELDENA                61324                           0
+  GRAND RIDGE           61325                           7
+  GRANVILLE             61326                          16
+  HENNEPIN              61327                          11
+  KASBEER               61328                           0
+  LADD                  61329                          16
+  LA MOILLE             61330                          12
+  LEE CENTER            61331                           3
+  LEONORE               61332                           0
+  LONG POINT            61333                           2
+  LOSTANT               61334                           7
+  MC NABB               61335                           5
+  MAGNOLIA              61336                           2
+  MALDEN                61337                           3
+  MANLIUS               61338                           3
+  MARK                  61340                           1
+  MARSEILLES            61341                         100
+  MENDOTA               61342                          72
+  MINERAL               61344                           5
+  NEPONSET              61345                          10
+  NEW BEDFORD           61346                           0
+  OGLESBY               61348                          46
+  OHIO                  61349                          16
+  OTTAWA                61350                         274
+  PAW PAW               61353                          11
+  PERU                  61354                         127
+  PRINCETON             61356                         129
+  RUTLAND               61358                           1
+  SEATONVILLE           61359                           4
+  SENECA                61360                          27
+  SHEFFIELD             61361                          16
+  SPRING VALLEY         61362                          51
+  STANDARD              61363                           1
+  STREATOR              61364                         126
+  SUBLETTE              61367                           4
+  TISKILWA              61368                          32
+  TOLUCA                61369                           8
+  TONICA                61370                          15
+  TRIUMPH               61371                           1
+  TROY GROVE            61372                           0
+  UTICA                 61373                          30
+  VAN ORIN              61374                           1
+  VARNA                 61375                          14
+  WALNUT                61376                          33
+  WENONA                61377                          19
+  WEST BROOKLYN         61378                           4
+  WYANET                61379                          12
+  GALESBURG             61401                         456
+  GALESBURG             61402                           1
+  ABINGDON              61410                          25
+  ADAIR                 61411                           3
+  ALEXIS                61412                          21
+  ALPHA                 61413                          17
+  ALTONA                61414                          11
+  AVON                  61415                          21
+  BARDOLPH              61416                           0
+  BERWICK               61417                           1  BIGGSVILLE            61418                           9
+  BISHOP HILL           61419                           7
+  BLANDINSVILLE         61420                          18
+  BRADFORD              61421                          11
+  BUSHNELL              61422                          42
+  CAMERON               61423                          15
+  CAMP GROVE            61424                           0
+  CARMAN                61425                           2
+  CASTLETON             61426                           0
+  CUBA                  61427                          29
+  DAHINDA               61428                          22
+  EAST GALESBURG        61430                          15
+  ELLISVILLE            61431                           3
+  FAIRVIEW              61432                           3
+  FIATT                 61433                           0
+  GALVA                 61434                          26
+  GERLAW                61435                           1
+  GILSON                61436                           8
+  GLADSTONE             61437                          11
+  GOOD HOPE             61438                          12
+  HENDERSON             61439                           1
+  INDUSTRY              61440                          10
+  IPAVA                 61441                          14
+  KEITHSBURG            61442                           6
+  KEWANEE               61443                         120
+  KIRKWOOD              61447                           7
+  KNOXVILLE             61448                          54
+  LA FAYETTE            61449                           3
+  LA HARPE              61450                          10
+  LAURA                 61451                           1
+  LITTLETON             61452                           2
+  LITTLE YORK           61453                           7
+  LOMAX                 61454                           4
+  MACOMB                61455                         408
+  MAQUON                61458                           6
+  MARIETTA              61459                           2
+  MEDIA                 61460                           3
+  MONMOUTH              61462                         120
+  NEW WINDSOR           61465                          18
+  NORTH HENDERSON       61466                           4
+  ONEIDA                61467                          12
+  OPHIEM                61468                           1
+  OQUAWKA               61469                          19
+  PRAIRIE CITY          61470                           6
+  RARITAN               61471                           1
+  RIO                   61472                          14
+  ROSEVILLE             61473                          18
+  SAINT AUGUSTINE       61474                           2
+  SCIOTA                61475                           4
+  SEATON                61476                           4
+  SMITHFIELD            61477                          12
+  SMITHSHIRE            61478                           1
+  SPEER                 61479                           0
+  STRONGHURST           61480                          23
+  TABLE GROVE           61482                           5
+  TOULON                61483                          16
+  VERMONT               61484                           6
+  VICTORIA              61485                           5
+  VIOLA                 61486                          12
+  WATAGA                61488                          15
+  WILLIAMSFIELD         61489                          14
+  WOODHULL              61490                          12
+  WYOMING               61491                          18
+  ASTORIA               61501                          18
+  BENSON                61516                           4
+  BRIMFIELD             61517                          44
+  BRYANT                61519                           0
+  CANTON                61520                         146
+  CHILLICOTHE           61523                         147
+  DUNFERMLINE           61524                           2
+  DUNLAP                61525                         258
+  EDELSTEIN             61526                          16
+  EDWARDS               61528                          76
+  ELMWOOD               61529                          36
+  EUREKA                61530                         126
+  FARMINGTON            61531                          17
+  FOREST CITY           61532                           2
+  GLASFORD              61533                          27
+  GREEN VALLEY          61534                          12
+  GROVELAND             61535                          51
+  HANNA CITY            61536                          46
+  HENRY                 61537                          29
+  KINGSTON MINES        61539                           1
+  LACON                 61540                          18
+  LA ROSE               61541                           2
+  LEWISTOWN             61542                          22
+  LIVERPOOL             61543                           0
+  LONDON MILLS          61544                           4
+  LOWPOINT              61545                          10
+  MANITO                61546                          34  MAPLETON              61547                          67
+  METAMORA              61548                         222
+  MORTON                61550                         454
+  MOSSVILLE             61552                           1
+  NORRIS                61553                           1
+  PEKIN                 61554                         534
+  PEKIN                 61555                           9
+  PEKIN                 61558                           0
+  PRINCEVILLE           61559                          53
+  PUTNAM                61560                          13
+  ROANOKE               61561                          21
+  ROME                  61562                           3
+  SAINT DAVID           61563                           3
+  SOUTH PEKIN           61564                          10
+  SPARLAND              61565                          17
+  TOPEKA                61567                           5
+  TREMONT               61568                         102
+  TRIVOLI               61569                          16
+  WASHBURN              61570                          12
+  WASHINGTON            61571                         388
+  YATES CITY            61572                          12
+  PEORIA                61601                           2
+  PEORIA                61602                          53
+  PEORIA                61603                         142
+  PEORIA                61604                         375
+  PEORIA                61605                          51
+  PEORIA                61606                          88
+  PEORIA                61607                         136
+  CREVE COEUR           61610                          56
+  EAST PEORIA           61611                         367
+  PEORIA                61612                           4
+  PEORIA                61613                           1
+  PEORIA                61614                         660
+  PEORIA                61615                         597
+  PEORIA HEIGHTS        61616                          78
+  PEORIA                61625                           0
+  PEORIA                61629                           1
+  PEORIA                61630                           1
+  PEORIA                61633                           0
+  PEORIA                61634                           0
+  PEORIA                61635                           2
+  PEORIA                61636                           1
+  PEORIA                61637                           0
+  PEORIA                61638                           0
+  PEORIA                61639                           0
+  PEORIA                61640                           0
+  PEORIA                61641                           0
+  PEORIA                61643                           0
+  PEORIA                61650                           1
+  PEORIA                61651                           0
+  PEORIA                61652                           0
+  PEORIA                61653                           0
+  PEORIA                61654                           1
+  PEORIA                61655                           0
+  PEORIA                61656                           1
+  BLOOMINGTON           61701                         618
+  BLOOMINGTON           61702                          29
+  BLOOMINGTON           61704                         918
+  BLOOMINGTON           61709                           7
+  BLOOMINGTON           61710                          25
+  ANCHOR                61720                           2
+  ARMINGTON             61721                          15
+  ARROWSMITH            61722                          10
+  ATLANTA               61723                          42
+  BELLFLOWER            61724                           3
+  CARLOCK               61725                          16
+  CHENOA                61726                          29
+  CLINTON               61727                         120
+  COLFAX                61728                          19
+  CONGERVILLE           61729                          24
+  COOKSVILLE            61730                           4
+  CROPSEY               61731                           3
+  DANVERS               61732                          40
+  DEER CREEK            61733                          18
+  DELAVAN               61734                          44
+  DEWITT                61735                           2
+  DOWNS                 61736                          47
+  ELLSWORTH             61737                           8
+  EL PASO               61738                          55
+  FAIRBURY              61739                          49
+  FLANAGAN              61740                          10
+  FORREST               61741                          13
+  GOODFIELD             61742                          23
+  GRAYMONT              61743                           2
+  GRIDLEY               61744                          25
+  HEYWORTH              61745                          85
+  HOPEDALE              61747                          14
+  HUDSON                61748                          55
+  KENNEY                61749                           3
+  LANE                  61750                           2  LAWNDALE              61751                           2
+  LE ROY                61752                          70
+  LEXINGTON             61753                          36
+  MC LEAN               61754                          19
+  MACKINAW              61755                          67
+  MAROA                 61756                          25
+  MERNA                 61758                           0
+  MINIER                61759                          21
+  MINONK                61760                          13
+  NORMAL                61761                         979
+  PONTIAC               61764                          90
+  SAUNEMIN              61769                           0
+  SAYBROOK              61770                          15
+  SECOR                 61771                          11
+  SHIRLEY               61772                           6
+  SIBLEY                61773                           0
+  STANFORD              61774                          14
+  STRAWN                61775                           4
+  TOWANDA               61776                          17
+  WAPELLA               61777                          12
+  WAYNESVILLE           61778                           5
+  NORMAL                61790                          20
+  BLOOMINGTON           61791                           0
+  BLOOMINGTON           61799                           0
+  URBANA                61801                         736
+  URBANA                61802                         600
+  URBANA                61803                           3
+  ALLERTON              61810                           4
+  ALVIN                 61811                           7
+  ARMSTRONG             61812                           1
+  BEMENT                61813                          22
+  BISMARCK              61814                          12
+  BONDVILLE             61815                           2
+  BROADLANDS            61816                           4
+  CATLIN                61817                          40
+  CERRO GORDO           61818                          17
+  CHAMPAIGN             61820                         655
+  CHAMPAIGN             61821                         747
+  CHAMPAIGN             61822                         870
+  CHAMPAIGN             61824                           0
+  CHAMPAIGN             61825                           2
+  CHAMPAIGN             61826                           5
+  CISCO                 61830                          11
+  COLLISON              61831                           4
+  DANVILLE              61832                         354
+  TILTON                61833                          21
+  DANVILLE              61834                          91
+  DE LAND               61839                           9
+  DEWEY                 61840                           8
+  FAIRMOUNT             61841                          18
+  FARMER CITY           61842                          25
+  FISHER                61843                          21
+  FITHIAN               61844                           6
+  FOOSLAND              61845                           6
+  GEORGETOWN            61846                          42
+  GIFFORD               61847                          10
+  HENNING               61848                           3
+  HOMER                 61849                          23
+  INDIANOLA             61850                           4
+  IVESDALE              61851                           3
+  LONGVIEW              61852                           3
+  MAHOMET               61853                         311
+  MANSFIELD             61854                          25
+  MILMINE               61855                           2
+  MONTICELLO            61856                         216
+  MUNCIE                61857                           1
+  OAKWOOD               61858                          51
+  OGDEN                 61859                          10
+  PENFIELD              61862                           6
+  PESOTUM               61863                          12
+  PHILO                 61864                          28
+  POTOMAC               61865                          14
+  RANTOUL               61866                         135
+  RIDGE FARM            61870                          15
+  ROYAL                 61871                           2
+  SADORUS               61872                          15
+  SAINT JOSEPH          61873                         110
+  SAVOY                 61874                         246
+  SEYMOUR               61875                          15
+  SIDELL                61876                          12
+  SIDNEY                61877                          17
+  THOMASBORO            61878                          18
+  TOLONO                61880                          65
+  WELDON                61882                          12
+  WESTVILLE             61883                          44
+  WHITE HEATH           61884                          36
+  ARCOLA                61910                          55
+  ARTHUR                61911                          24
+  ASHMORE               61912                          17
+  ATWOOD                61913                          13  BETHANY               61914                          20
+  BROCTON               61917                           2
+  CAMARGO               61919                          13
+  CHARLESTON            61920                         405
+  CHRISMAN              61924                          15
+  DALTON CITY           61925                          11
+  GAYS                  61928                          13
+  HAMMOND               61929                           4
+  HINDSBORO             61930                          11
+  HUMBOLDT              61931                          11
+  HUME                  61932                           2
+  KANSAS                61933                           7
+  LA PLACE              61936                           4
+  LOVINGTON             61937                          18
+  MATTOON               61938                         326
+  METCALF               61940                           0
+  MURDOCK               61941                           0
+  NEWMAN                61942                          11
+  OAKLAND               61943                          27
+  PARIS                 61944                         141
+  REDMON                61949                           2
+  SULLIVAN              61951                         118
+  TUSCOLA               61953                         104
+  VERMILION             61955                           2
+  VILLA GROVE           61956                          34
+  WINDSOR               61957                          15
+  ALHAMBRA              62001                          26
+  ALTON                 62002                         534
+  BATCHTOWN             62006                          11
+  BENLD                 62009                          10
+  BETHALTO              62010                         170
+  BINGHAM               62011                           5
+  BRIGHTON              62012                          98
+  BRUSSELS              62013                           1
+  BUNKER HILL           62014                          53
+  BUTLER                62015                           8
+  CARROLLTON            62016                          33
+  COFFEEN               62017                           7
+  COTTAGE HILLS         62018                          16
+  DONNELLSON            62019                           4
+  DORSEY                62021                          20
+  DOW                   62022                          36
+  EAGARVILLE            62023                           2
+  EAST ALTON            62024                         115
+  EDWARDSVILLE          62025                         885
+  EDWARDSVILLE          62026                           4
+  ELDRED                62027                           1
+  ELSAH                 62028                          53
+  FIDELITY              62030                           0
+  FIELDON               62031                           6
+  FILLMORE              62032                           8
+  GILLESPIE             62033                          32
+  GLEN CARBON           62034                         374
+  GODFREY               62035                         326
+  GOLDEN EAGLE          62036                          10
+  GRAFTON               62037                          34
+  GRANITE CITY          62040                         414
+  GREENFIELD            62044                          20
+  HAMBURG               62045                           1
+  HAMEL                 62046                          20
+  HARDIN                62047                          11
+  HARTFORD              62048                          15
+  HILLSBORO             62049                          66
+  HILLVIEW              62050                           3
+  IRVING                62051                           9
+  JERSEYVILLE           62052                         151
+  KAMPSVILLE            62053                           2
+  KANE                  62054                           8
+  LITCHFIELD            62056                          85
+  LIVINGSTON            62058                          10
+  LOVEJOY               62059                           1
+  MADISON               62060                          25
+  MARINE                62061                          18
+  MARYVILLE             62062                         190
+  MEDORA                62063                           2
+  MICHAEL               62065                           1
+  MORO                  62067                          48
+  MOUNT OLIVE           62069                          37
+  MOZIER                62070                           0
+  NATIONAL STOCK YARDS  62071                           2
+  NEW DOUGLAS           62074                          14
+  NOKOMIS               62075                          27
+  OHLMAN                62076                           0
+  PANAMA                62077                           2
+  PATTERSON             62078                           0
+  PIASA                 62079                           2
+  RAMSEY                62080                          12
+  ROCKBRIDGE            62081                           3
+  ROODHOUSE             62082                          13
+  ROSAMOND              62083                           1  ROXANA                62084                          11
+  SAWYERVILLE           62085                           0
+  SORENTO               62086                          18
+  SOUTH ROXANA          62087                          23
+  STAUNTON              62088                          70
+  TAYLOR SPRINGS        62089                           2
+  VENICE                62090                           4
+  WALSHVILLE            62091                           8
+  WHITE HALL            62092                          22
+  WILSONVILLE           62093                           3
+  WITT                  62094                           8
+  WOOD RIVER            62095                         130
+  WORDEN                62097                          50
+  WRIGHTS               62098                           0
+  EAST SAINT LOUIS      62201                          33
+  EAST SAINT LOUIS      62202                           1
+  EAST SAINT LOUIS      62203                          29
+  EAST SAINT LOUIS      62204                          21
+  EAST SAINT LOUIS      62205                          22
+  EAST SAINT LOUIS      62206                         128
+  EAST SAINT LOUIS      62207                          22
+  FAIRVIEW HEIGHTS      62208                         316
+  ADDIEVILLE            62214                          19
+  ALBERS                62215                          17
+  AVISTON               62216                          24
+  BALDWIN               62217                           5
+  BARTELSO              62218                           8
+  BECKEMEYER            62219                           5
+  BELLEVILLE            62220                         315
+  BELLEVILLE            62221                         411
+  BELLEVILLE            62222                           4
+  BELLEVILLE            62223                         301
+  MASCOUTAH             62224                           0
+  SCOTT AIR FORCE BASE  62225                          87
+  BELLEVILLE            62226                         533
+  BREESE                62230                          70
+  CARLYLE               62231                          72
+  CASEYVILLE            62232                         101
+  CHESTER               62233                          51
+  COLLINSVILLE          62234                         541
+  COLUMBIA              62236                         239
+  COULTERVILLE          62237                          14
+  CUTLER                62238                           4
+  DUPO                  62239                          35
+  EAST CARONDELET       62240                          14
+  ELLIS GROVE           62241                           7
+  EVANSVILLE            62242                           9
+  FREEBURG              62243                          65
+  FULTS                 62244                           4
+  GERMANTOWN            62245                          21
+  GREENVILLE            62246                          96
+  HAGARSTOWN            62247                           0
+  HECKER                62248                           2
+  HIGHLAND              62249                         257
+  HOFFMAN               62250                           5
+  HUEY                  62252                           0
+  KEYESPORT             62253                           9
+  LEBANON               62254                         127
+  LENZBURG              62255                           5
+  MAEYSTOWN             62256                           2
+  MARISSA               62257                          28
+  MASCOUTAH             62258                         200
+  MENARD                62259                           0
+  MILLSTADT             62260                          85
+  MODOC                 62261                           0
+  MULBERRY GROVE        62262                          12
+  NASHVILLE             62263                          42
+  NEW ATHENS            62264                          26
+  NEW BADEN             62265                          58
+  NEW MEMPHIS           62266                           3
+  OAKDALE               62268                           5
+  O FALLON              62269                         853
+  OKAWVILLE             62271                          24
+  PERCY                 62272                          10
+  PIERRON               62273                           2
+  PINCKNEYVILLE         62274                          49
+  POCAHONTAS            62275                          37
+  PRAIRIE DU ROCHER     62277                           4
+  RED BUD               62278                          67
+  RENAULT               62279                           0
+  ROCKWOOD              62280                           6
+  SAINT JACOB           62281                          42
+  SAINT LIBORY          62282                           3
+  SMITHBORO             62284                           7
+  SMITHTON              62285                          71
+  SPARTA                62286                          41
+  STEELEVILLE           62288                          22
+  SUMMERFIELD           62289                          11
+  TILDEN                62292                           2
+  TRENTON               62293                          47  TROY                  62294                         292
+  VALMEYER              62295                          19
+  WALSH                 62297                           1
+  WATERLOO              62298                         254
+  QUINCY                62301                         313
+  QUINCY                62305                         294
+  QUINCY                62306                           6
+  ADRIAN                62310                           0
+  AUGUSTA               62311                           7
+  BARRY                 62312                          17
+  BASCO                 62313                           0
+  BAYLIS                62314                           3
+  BOWEN                 62316                          12
+  CAMDEN                62319                           2
+  CAMP POINT            62320                          15
+  CARTHAGE              62321                          56
+  CHAMBERSBURG          62323                           0
+  CLAYTON               62324                           2
+  COATSBURG             62325                           1
+  COLCHESTER            62326                          13
+  COLUSA                62329                           0
+  DALLAS CITY           62330                          20
+  ELVASTON              62334                           0
+  FERRIS                62336                           0
+  FOWLER                62338                          11
+  GOLDEN                62339                           1
+  GRIGGSVILLE           62340                          15
+  HAMILTON              62341                          36
+  HULL                  62343                           3
+  HUNTSVILLE            62344                           2
+  KINDERHOOK            62345                           3
+  LA PRAIRIE            62346                           2
+  LIBERTY               62347                          18
+  LIMA                  62348                           0
+  LORAINE               62349                          10
+  MENDON                62351                          19
+  MILTON                62352                           1
+  MOUNT STERLING        62353                          24
+  NAUVOO                62354                          30
+  NEBO                  62355                           5
+  NEW CANTON            62356                           0
+  NEW SALEM             62357                           1
+  NIOTA                 62358                          11
+  PALOMA                62359                           3
+  PAYSON                62360                          13
+  PEARL                 62361                           3
+  PERRY                 62362                           1
+  PITTSFIELD            62363                          53
+  PLAINVILLE            62365                           2
+  PLEASANT HILL         62366                           6
+  PLYMOUTH              62367                          10
+  ROCKPORT              62370                           0
+  SUTTER                62373                           2
+  TENNESSEE             62374                           3
+  TIMEWELL              62375                           3
+  URSA                  62376                           6
+  VERSAILLES            62378                           5
+  WARSAW                62379                          19
+  WEST POINT            62380                           3
+  EFFINGHAM             62401                         373
+  ALLENDALE             62410                          10
+  ALTAMONT              62411                          45
+  ANNAPOLIS             62413                           4
+  BEECHER CITY          62414                          16
+  BIRDS                 62415                           0
+  BRIDGEPORT            62417                          21
+  BROWNSTOWN            62418                          10
+  CALHOUN               62419                           1
+  CASEY                 62420                          38
+  CLAREMONT             62421                           2
+  COWDEN                62422                           8
+  DENNISON              62423                           6
+  DIETERICH             62424                          26
+  DUNDAS                62425                           4
+  EDGEWOOD              62426                           3
+  FLAT ROCK             62427                          20
+  GREENUP               62428                          26
+  HERRICK               62431                           5
+  HIDALGO               62432                           7
+  HUTSONVILLE           62433                          11
+  INGRAHAM              62434                           3
+  JANESVILLE            62435                           0
+  JEWETT                62436                           5
+  LAKEWOOD              62438                           4
+  LAWRENCEVILLE         62439                          75
+  LERNA                 62440                          18
+  MARSHALL              62441                         116
+  MARTINSVILLE          62442                          21
+  MASON                 62443                          14
+  MODE                  62444                           5  MONTROSE              62445                          14
+  MOUNT ERIE            62446                           1
+  NEOGA                 62447                          60
+  NEWTON                62448                          57
+  OBLONG                62449                          29
+  OLNEY                 62450                          73
+  PALESTINE             62451                          20
+  PARKERSBURG           62452                           2
+  ROBINSON              62454                         148
+  SAINT ELMO            62458                          17
+  SAINTE MARIE          62459                           5
+  SAINT FRANCISVILLE    62460                           3
+  SHUMWAY               62461                          10
+  SIGEL                 62462                          23
+  STEWARDSON            62463                           5
+  STOY                  62464                           0
+  STRASBURG             62465                          10
+  SUMNER                62466                          17
+  TEUTOPOLIS            62467                          54
+  TOLEDO                62468                          34
+  TRILLA                62469                           8
+  VANDALIA              62471                          64
+  WATSON                62473                          12
+  WESTFIELD             62474                           9
+  WEST LIBERTY          62475                           0
+  WEST SALEM            62476                          13
+  WEST UNION            62477                           9
+  WEST YORK             62478                           3
+  WHEELER               62479                           5
+  WILLOW HILL           62480                           3
+  YALE                  62481                           2
+  ARGENTA               62501                          34
+  ASSUMPTION            62510                          21
+  BEASON                62512                           7
+  BLUE MOUND            62513                          21
+  BOODY                 62514                           0
+  BUFFALO               62515                          11
+  BULPITT               62517                           2
+  CHESTNUT              62518                           4
+  CORNLAND              62519                           0
+  DAWSON                62520                           9
+  DECATUR               62521                         451
+  DECATUR               62522                         191
+  DECATUR               62523                           9
+  DECATUR               62524                           2
+  DECATUR               62525                           8
+  DECATUR               62526                         330
+  DIVERNON              62530                          18
+  EDINBURG              62531                          17
+  ELWIN                 62532                           1
+  FARMERSVILLE          62533                          13
+  FINDLAY               62534                          14
+  FORSYTH               62535                          73
+  GLENARM               62536                          18
+  HARRISTOWN            62537                           3
+  HARVEL                62538                           3
+  ILLIOPOLIS            62539                          10
+  KINCAID               62540                          15
+  LAKE FORK             62541                           0
+  LATHAM                62543                           5
+  MACON                 62544                          23
+  MECHANICSBURG         62545                          23
+  MORRISONVILLE         62546                          10
+  MOUNT AUBURN          62547                           6
+  MOUNT PULASKI         62548                          30
+  MT ZION               62549                         113
+  MOWEAQUA              62550                          34
+  NIANTIC               62551                          10
+  OCONEE                62553                           1
+  OREANA                62554                          13
+  OWANECO               62555                           4
+  PALMER                62556                           1
+  PANA                  62557                          36
+  PAWNEE                62558                          34
+  RAYMOND               62560                          17
+  RIVERTON              62561                          41
+  ROCHESTER             62563                         141
+  SHELBYVILLE           62565                          76
+  STONINGTON            62567                          11
+  TAYLORVILLE           62568                         140
+  TOVEY                 62570                           2
+  TOWER HILL            62571                          10
+  WAGGONER              62572                           3
+  WARRENSBURG           62573                          17
+  ALEXANDER             62601                           2
+  ALSEY                 62610                           2
+  ARENZVILLE            62611                           4
+  ASHLAND               62612                          19
+  ATHENS                62613                          49
+  AUBURN                62615                          49  BATH                  62617                           4
+  BEARDSTOWN            62618                          38
+  BLUFFS                62621                          21
+  BLUFF SPRINGS         62622                           1
+  BROWNING              62624                           2
+  CANTRALL              62625                          15
+  CARLINVILLE           62626                          93
+  CHANDLERVILLE         62627                           9
+  CHAPIN                62628                           3
+  CHATHAM               62629                         280
+  CHESTERFIELD          62630                           1
+  CONCORD               62631                           5
+  EASTON                62633                           2
+  ELKHART               62634                          16
+  EMDEN                 62635                           5
+  FRANKLIN              62638                          16
+  FREDERICK             62639                           3
+  GIRARD                62640                          26
+  GREENVIEW             62642                          15
+  HARTSBURG             62643                           6
+  HAVANA                62644                          42
+  HETTICK               62649                           3
+  JACKSONVILLE          62650                         312
+  JACKSONVILLE          62651                           5
+  KILBOURNE             62655                           4
+  LINCOLN               62656                         198
+  LINCOLNS NEW SALEM    62659                           0
+  LITERBERRY            62660                           0
+  LOAMI                 62661                          19
+  LOWDER                62662                           0
+  MANCHESTER            62663                           1
+  MASON CITY            62664                          25
+  MEREDOSIA             62665                           9
+  MIDDLETOWN            62666                           4
+  MODESTO               62667                           9
+  MURRAYVILLE           62668                           8
+  NEW BERLIN            62670                          52
+  NEW HOLLAND           62671                           8
+  NILWOOD               62672                           1
+  OAKFORD               62673                           2
+  PALMYRA               62674                           7
+  PETERSBURG            62675                          81
+  PLEASANT PLAINS       62677                          43
+  RUSHVILLE             62681                          61
+  SAN JOSE              62682                          19
+  SCOTTVILLE            62683                           0
+  SHERMAN               62684                         109
+  SHIPMAN               62685                          18
+  TALLULA               62688                           6
+  THAYER                62689                           6
+  VIRDEN                62690                          32
+  VIRGINIA              62691                          24
+  WAVERLY               62692                          14
+  WILLIAMSVILLE         62693                          23
+  WINCHESTER            62694                          25
+  WOODSON               62695                           4
+  SPRINGFIELD           62701                          68
+  SPRINGFIELD           62702                         373
+  SPRINGFIELD           62703                         319
+  SPRINGFIELD           62704                         881
+  SPRINGFIELD           62705                           4
+  SPRINGFIELD           62706                           4
+  SPRINGFIELD           62707                         122
+  SPRINGFIELD           62708                           1
+  SPRINGFIELD           62711                         438
+  SPRINGFIELD           62712                         256
+  SPRINGFIELD           62713                           0
+  SPRINGFIELD           62715                           0
+  SPRINGFIELD           62716                           0
+  SPRINGFIELD           62719                           0
+  SPRINGFIELD           62721                           3
+  SPRINGFIELD           62722                           0
+  SPRINGFIELD           62723                           0
+  SPRINGFIELD           62726                           0
+  SPRINGFIELD           62736                           0
+  SPRINGFIELD           62739                           0
+  SPRINGFIELD           62746                           0
+  SPRINGFIELD           62756                           0
+  SPRINGFIELD           62757                           1
+  SPRINGFIELD           62761                           1
+  SPRINGFIELD           62762                           0
+  SPRINGFIELD           62763                           0
+  SPRINGFIELD           62764                           6
+  SPRINGFIELD           62765                           0
+  SPRINGFIELD           62766                           1
+  SPRINGFIELD           62767                           0
+  SPRINGFIELD           62769                           0
+  SPRINGFIELD           62776                           0
+  SPRINGFIELD           62777                           0
+  SPRINGFIELD           62781                           7  SPRINGFIELD           62786                           0
+  SPRINGFIELD           62791                           5
+  SPRINGFIELD           62794                          31
+  SPRINGFIELD           62796                           0
+  CENTRALIA             62801                         184
+  HOYLETON              62803                           6
+  AKIN                  62805                           0
+  ALBION                62806                          24
+  ALMA                  62807                           7
+  ASHLEY                62808                          15
+  BARNHILL              62809                           1
+  BELLE RIVE            62810                          18
+  BELLMONT              62811                           1
+  BENTON                62812                         116
+  BLUFORD               62814                           8
+  BONE GAP              62815                           0
+  BONNIE                62816                          10
+  BROUGHTON             62817                           4
+  BROWNS                62818                           2
+  BUCKNER               62819                           4
+  BURNT PRAIRIE         62820                           1
+  CARMI                 62821                          64
+  CHRISTOPHER           62822                          23
+  CISNE                 62823                          16
+  CLAY CITY             62824                           7
+  COELLO                62825                           3
+  CROSSVILLE            62827                          11
+  DAHLGREN              62828                          22
+  DALE                  62829                           0
+  DIX                   62830                          15
+  DU BOIS               62831                           6
+  DU QUOIN              62832                          84
+  ELLERY                62833                           2
+  EMMA                  62834                           0
+  ENFIELD               62835                           9
+  EWING                 62836                           8
+  FAIRFIELD             62837                          61
+  FARINA                62838                           8
+  FLORA                 62839                          46
+  FRANKFORT HEIGHTS     62840                           0
+  FREEMAN SPUR          62841                           0
+  GEFF                  62842                           3
+  GOLDEN GATE           62843                           0
+  GRAYVILLE             62844                          12
+  INA                   62846                           9
+  IOLA                  62847                           0
+  IRVINGTON             62848                           6
+  IUKA                  62849                          12
+  JOHNSONVILLE          62850                           2
+  KEENES                62851                           7
+  KEENSBURG             62852                           0
+  KELL                  62853                           9
+  KINMUNDY              62854                           9
+  LANCASTER             62855                           0
+  LOGAN                 62856                           3
+  LOOGOOTEE             62857                           0
+  LOUISVILLE            62858                          23
+  MC LEANSBORO          62859                          60
+  MACEDONIA             62860                           4
+  MAUNIE                62861                           0
+  MILL SHOALS           62862                           3
+  MOUNT CARMEL          62863                          90
+  MOUNT VERNON          62864                         250
+  MULKEYTOWN            62865                          34
+  NASON                 62866                           0
+  NEW HAVEN             62867                           3
+  NOBLE                 62868                          14
+  NORRIS CITY           62869                          18
+  ODIN                  62870                          14
+  OMAHA                 62871                           5
+  OPDYKE                62872                           7
+  ORIENT                62874                           6
+  PATOKA                62875                          14
+  RADOM                 62876                           4
+  RICHVIEW              62877                           6
+  RINARD                62878                           1
+  SAILOR SPRINGS        62879                           0
+  SAINT PETER           62880                           1
+  SALEM                 62881                         102
+  SANDOVAL              62882                          15
+  SCHELLER              62883                           7
+  SESSER                62884                          33
+  SHOBONIER             62885                           7
+  SIMS                  62886                           3
+  SPRINGERTON           62887                           3
+  TAMAROA               62888                          16
+  TEXICO                62889                          15
+  THOMPSONVILLE         62890                          20
+  VALIER                62891                           5
+  VERNON                62892                           2  WALNUT HILL           62893                          10
+  WALTONVILLE           62894                           8
+  WAYNE CITY            62895                          12
+  WEST FRANKFORT        62896                         104
+  WHITTINGTON           62897                           5
+  WOODLAWN              62898                          19
+  XENIA                 62899                          11
+  CARBONDALE            62901                         449
+  CARBONDALE            62902                         133
+  CARBONDALE            62903                          72
+  ALTO PASS             62905                          17
+  ANNA                  62906                          78
+  AVA                   62907                          25
+  BELKNAP               62908                          11
+  BOLES                 62909                           0
+  BROOKPORT             62910                          19
+  BUNCOMBE              62912                          14
+  CAIRO                 62914                           8
+  CAMBRIA               62915                           7
+  CAMPBELL HILL         62916                           3
+  CARRIER MILLS         62917                          11
+  CARTERVILLE           62918                         175
+  CAVE IN ROCK          62919                           9
+  COBDEN                62920                          52
+  COLP                  62921                           0
+  CREAL SPRINGS         62922                          40
+  CYPRESS               62923                           4
+  DE SOTO               62924                          33
+  DONGOLA               62926                          33
+  DOWELL                62927                           3
+  EDDYVILLE             62928                           3
+  ELDORADO              62930                          46
+  ELIZABETHTOWN         62931                           8
+  ELKVILLE              62932                          16
+  ENERGY                62933                          15
+  EQUALITY              62934                           5
+  GALATIA               62935                          12
+  GOLCONDA              62938                          23
+  GOREVILLE             62939                          46
+  GORHAM                62940                           1
+  GRAND CHAIN           62941                           7
+  GRAND TOWER           62942                           4
+  GRANTSBURG            62943                           6
+  HAMLETSBURG           62944                           0
+  HARRISBURG            62946                         140
+  HEROD                 62947                           5
+  HERRIN                62948                         131
+  HURST                 62949                           8
+  JACOB                 62950                           1
+  JOHNSTON CITY         62951                          43
+  JONESBORO             62952                          34
+  JOPPA                 62953                           4
+  JUNCTION              62954                           1
+  KARBERS RIDGE         62955                           0
+  KARNAK                62956                           9
+  MC CLURE              62957                           2
+  MAKANDA               62958                          67
+  MARION                62959                         408
+  METROPOLIS            62960                         114
+  MILLCREEK             62961                           0
+  MILLER CITY           62962                           0
+  MOUND CITY            62963                           3
+  MOUNDS                62964                          13
+  MUDDY                 62965                           0
+  MURPHYSBORO           62966                         183
+  NEW BURNSIDE          62967                           3
+  OLIVE BRANCH          62969                           4
+  OLMSTED               62970                           4
+  ORAVILLE              62971                           0
+  OZARK                 62972                          20
+  PERKS                 62973                           0
+  PITTSBURG             62974                          22
+  POMONA                62975                           6
+  PULASKI               62976                           2
+  RALEIGH               62977                           4
+  RIDGWAY               62979                          14
+  ROSICLARE             62982                           5
+  ROYALTON              62983                          18
+  SHAWNEETOWN           62984                           3
+  SIMPSON               62985                          13
+  STONEFORT             62987                           9
+  TAMMS                 62988                           8
+  THEBES                62990                           9
+  ULLIN                 62992                          10
+  UNITY                 62993                           0
+  VERGENNES             62994                           3
+  VIENNA                62995                          37
+  VILLA RIDGE           62996                           4
+  WILLISVILLE           62997                           2
+  WOLF LAKE             62998                           1  ZEIGLER               62999                           7
+  UNKNOWN               99999                        1030
+                        TOTAL COUNT  .........     232906
